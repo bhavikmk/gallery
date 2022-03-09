@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import Art from './Art';
+import 'tachyons';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1 class="tc  db black-400 mb0 lh-title mw15"> Robo Gods NFT Store</h1>
+      <Art name="robo1" hash = "D327T87"/>
+      <Art name="robo2" hash = "7283TR7"/>
+      <Art name="robo3" hash = "R323232"/>
+      <Art name="robo4" hash = "76JDNXF"/>
+      <Art name="robo5" hash = "FXGFHQG"/>
+      <Art name="robo6" hash = "B35EHRE"/>
+      <Art name="robo7" hash = "WG2Q4YW"/>
     </div>
   );
 }
