@@ -1,42 +1,42 @@
 export const robots = [
     {
       id: 1,
-      name: 'Giovani Gorgeo',
+      name: 'Bhavik',
       hash: 'S3TYUBK',
       email: 'S3TYUBK.biz',
       price: '0.05 BTC'
     },
     {
       id: 2,
-      name: 'Giovani Gorgeo',
+      name: 'Giovani',
       hash: 'WEUGF23',
       email: 'WEUGF23.tv',
       price: '0.05 BTC'
     },
     {
       id: 3,
-      name: 'Giovani Gorgeo',
+      name: 'Kano',
       hash: 'ABDFBAU',
       email: 'Nathan@yesenia.net',
       price: '0.05 BTC'
     },
     {
       id: 4,
-      name: 'Giovani Gorgeo',
+      name: 'Ruchi',
       hash: 'B723672',
       email: 'Julianne.OConner@kory.org',
       price: '0.05 BTC'
     },
     {
       id: 5,
-      name: 'Giovani Gorgeo',
+      name: 'Gopi',
       hash: 'BBAFOG3',
       email: 'Lucio_Hettinger@annie.ca',
       price: '0.05 BTC'
     },
     {
       id: 6,
-      name: 'Giovani Gorgeo',
+      name: 'Prince',
       hash: 'UEBF87T',
       email: 'Karley_Dach@jasper.info',
       price: '0.05 BTC'
